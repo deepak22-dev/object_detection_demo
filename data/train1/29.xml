@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>29.jpg</filename>
+	<path>F:\tensorflow\models\research\object_detection\data\images\29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>329</ymin>
+			<xmax>757</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>174</ymin>
+			<xmax>332</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

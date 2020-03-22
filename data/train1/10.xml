@@ -1,0 +1,110 @@
+<annotation>
+	<folder>images</folder>
+	<filename>10.jpg</filename>
+	<path>F:\tensorflow\models\research\object_detection\data\images\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>414</ymin>
+			<xmax>149</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>253</ymin>
+			<xmax>258</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>194</ymin>
+			<xmax>363</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>230</ymin>
+			<xmax>463</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>366</ymin>
+			<xmax>569</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>587</xmin>
+			<ymin>393</ymin>
+			<xmax>671</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymin>319</ymin>
+			<xmax>764</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>458</ymin>
+			<xmax>607</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

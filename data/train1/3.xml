@@ -1,0 +1,74 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3.jpg</filename>
+	<path>F:\tensorflow\models\research\object_detection\data\images\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>40</ymin>
+			<xmax>665</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>142</ymin>
+			<xmax>236</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>346</ymin>
+			<xmax>766</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>6</ymin>
+			<xmax>439</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>647</xmin>
+			<ymin>84</ymin>
+			<xmax>800</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>
